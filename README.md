@@ -1,1 +1,0 @@
-# study-material-sharing-tkinter
